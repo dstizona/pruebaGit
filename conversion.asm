@@ -3,6 +3,9 @@
 ; Acc:  Dato a comparar
 ; psw.5 = 0 dato entre 0 y 9
 ; psw.5 = 1 meror de 0 o mayor de 9 
+; ---- texto modificado
+mov a,#100
+
 ;-----------------------------------------------------------------------------
 C09_:	CLR PSW.5
 	CJNE A,#30H,C09_1
