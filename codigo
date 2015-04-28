@@ -1,2 +1,7 @@
 mov #01,a
 mov r1,#12h
+pop acc
+MOV A,#10H
+ADD A,#05
+
+
