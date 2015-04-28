@@ -5,8 +5,7 @@
 ; psw.5 = 1 meror de 0 o mayor de 9 
 ; ---- texto modificado
 mov a,#100
-;nueva linea
-mov b,#200
+
 ;-----------------------------------------------------------------------------
 C09_:	CLR PSW.5
 	CJNE A,#30H,C09_1
