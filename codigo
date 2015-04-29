@@ -2,10 +2,17 @@ mov #01,a
 mov r1,#12h
 pop acc
 MOV A,#10H
-ADD A,#05
+ADD A,#05R56-----
 ; en linea nueva
 1
 3
+5
+5
+5
+5
+5
+5
+5
 
 
 
