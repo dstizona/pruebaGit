@@ -1,5 +1,5 @@
 ;-----------------------------------------------------------------------------
-; Indica si el dato de Acc esta entre 0 y 9
+; Indica 1111111111111111  si el dato de Acc esta entre 0 y 9
 ; Acc:  Dato a comparar
 ; psw.5 = 0 dato entre 0 y 9
 ; psw.5 = 1 meror de 0 o mayor de 9 
